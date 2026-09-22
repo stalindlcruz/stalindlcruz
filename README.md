@@ -4,6 +4,7 @@
   <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
+<!--About me-->
 <section>
   <h3 style="display: inline-block; border-bottom: none"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"> About me</h3>
   <p>
@@ -20,16 +21,27 @@
   </p>
 </section>
 
+<!--Current stack-->
 <section>
   <h3 style="display: inline-block; border-bottom: none"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"> Current stack</h3>
   
-  <div align="center">
+  <div align="">
+    <h3>Languages</h3>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript&theme=light" />
+  </div>
+  
+  <div align="">
     <h3>Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,astro&theme=light" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,astro&theme=light" />
   </div>
 
-  <div align="center">
+  <div align="">
     <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,typescript,react,astro&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite&theme=light" />
+  </div>
+  
+  <div align="">
+    <h3>Tools</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker&theme=light" />
   </div>
 </section>
