@@ -7,18 +7,21 @@
 <!--About me-->
 <section>
   <h3 style="display: inline-block; border-bottom: none"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"> About me</h3>
-  <p>
-    Full-stack developer in training, looking for my first opportunity as a developer.
-  </p>
-  <p>
-    I completed an intensive full-stack development bootcamp (JSCamp), and I'm currently pursuing an Associate Degree in Computer Science with a focus on Artificial Intelligence at Manchester Community College.
-  </p>
-  <p>
-    I'm especially interested in web development and applied AI. It's the focus of my studies right now, and I want keep integrating it into my projects.
-  </p>
-  <p>
-    I speak Spanish (native) and English.
-  </p>
+  
+  <div>
+    <p>
+      Full-stack developer in training, looking for my first opportunity as a developer.
+    </p>
+    <p>
+      I completed an intensive full-stack development bootcamp (JSCamp), and I'm currently pursuing an Associate Degree in Computer Science with a focus on Artificial Intelligence at Manchester Community College.
+    </p>
+    <p>
+      I'm especially interested in web development and applied AI. It's the focus of my studies right now, and I want keep integrating it into my projects.
+    </p>
+    <p>
+      I speak Spanish (native) and English.
+    </p>
+  </div>
 </section>
 
 <!--Current stack-->
@@ -46,9 +49,17 @@
   </div>
 </section>
 
+<!--Reach out to me-->
 <section>
   <h3 style="display: inline-block; border-bottom: none"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35px"> Reach out to me 🤝</h3>
+
+  <ul>
+    <li><a style="text-decoration: none" href="https://www.linkedin.com/in/stalindlcruz/" target="_blank">Linkedin</a></li>
+  </ul>
+  
+<!--
   <div>
     <a href="https://www.linkedin.com/in/stalindlcruz/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   </div>
+-->
 </section>
