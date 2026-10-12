@@ -10,16 +10,9 @@
   
   <div>
     <p>
-      Full-stack developer in training, looking for my first opportunity as a developer.
-    </p>
-    <p>
-      I completed an intensive full-stack development bootcamp (JSCamp), and I'm currently pursuing an Associate Degree in Computer Science with a focus on Artificial Intelligence at Manchester Community College.
-    </p>
-    <p>
-      I'm especially interested in web development and applied AI. It's the focus of my studies right now, and I want to keep integrating it into my projects.
-    </p>
-    <p>
-      I speak Spanish (native) and English.
+      Full-stack developer in training, looking for my first opportunity as a developer. I completed an intensive full-stack development bootcamp (JSCamp), and 
+      I'm currently pursuing an Associate Degree in Computer Science with a focus on Artificial Intelligence at Manchester Community College. I'm especially 
+      interested in web development and applied AI. It's the focus of my studies right now, and I want to keep integrating it into my projects. I speak Spanish and English.
     </p>
   </div>
 </section>
