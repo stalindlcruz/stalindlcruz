@@ -32,12 +32,17 @@
   
   <div>
     <h4>Frontend</h4>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,astro&theme=light" />
+    <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-949494?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   </div>
 
   <div>
     <h4>Backend</h4>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,sqlite&theme=light" />
+    <img src="https://img.shields.io/badge/Node.js-66C27A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </div>
   
   <div>
